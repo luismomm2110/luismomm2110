@@ -7,4 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismomm2110&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luismomm2110&show_icons=true&theme=tokyonight)
+
 
