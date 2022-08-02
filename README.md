@@ -1,7 +1,7 @@
 ### Hi!
 
-- 🔭 I’m currently working at SoftExpert
-- 🌱 I’m currently learning React, Programming Design Principles, Machine Learning, Object-Oriented Programming
+
+- 🌱 I’m currently learning React, Programming Design Principles, Compilers, Parallel Programming
 - 📫 How to reach me: luismomm@gmail.com
 - 😄 Pronouns: He/Him, Migo/Miguxo
 
