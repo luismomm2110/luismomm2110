@@ -1,7 +1,7 @@
 ### Hi!
 
 - :computer: I'm currently working at [Mercos](mercos.com), as Full Stack Developer (React/Django)
-- 🌱 I’m currently learning React, Programming Design Principles, Compilers, Parallel Programming
+- 🌱 I’m currently learning Distributed Systems and Compilers
 - 📫 How to reach me: luismomm@gmail.com
 - 😄 Pronouns: He/Him, Migo/Miguxo
 
