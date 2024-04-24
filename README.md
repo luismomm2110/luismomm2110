@@ -1,7 +1,7 @@
 ### Hi!
 
-- :computer: I'm currently working at [Mercos](mercos.com), as Full Stack Developer (React/Django)
-- 🌱 I’m currently learning Distributed Systems and Compilers
+- :computer: I'm currently working at [Totvs - Logistic](https://www.totvs.com/logistica/), as Staff Backend Engineer (Java) 
+- 🌱 I’m currently learning Distributed Systems 
 - 📫 How to reach me: luismomm@gmail.com
 - 😄 Pronouns: He/Him, Migo/Miguxo
 
